@@ -2,7 +2,7 @@
 
  This is a full-stack job application system built with React for the frontend and a Node.js/Express server for the backend. The application allows users to view, apply for, and filter job openings, while administrators can post, edit, and delete job listings.
 
-### 🔗 Hosted link: [Job App](https://job-app-peach.vercel.app/)
+### 🔗 Hosted link: [Job App](https://job-app-sandy.vercel.app/)
 
 ## 🧑‍💻Screenshots
 <img src="https://github.com/AniketMujbaile/job-app/blob/main/Img/Img1.png" width="500px">
