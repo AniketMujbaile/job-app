@@ -8,8 +8,13 @@ const jobRoutes = require('./routes/jobs');
 
 const app = express();
 
+const corsOptions = {
+  origin: ['https://job-app-sandy.vercel.app'],  
+  optionsSuccessStatus: 200,  
+};
+
 // Middleware
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Connect to MongoDB
